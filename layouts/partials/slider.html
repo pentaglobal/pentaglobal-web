@@ -1,13 +1,28 @@
 <!-- Slider Start -->
 <section id="slider">
+
+<!-- particles.js container -->
+<div id="particles-js">
+</div>
+<script src="{{ .Site.BaseURL }}js/particles.mini.js"></script>
+<script src="{{ .Site.BaseURL }}js/app.js"></script>
+
   <div class="container">
     <div class="row">
-      <div class="col-md-10 col-md-offset-2">
+      <div class="col-md-12">
         <div class="block">
-          <h1 class="animated fadeInUp text-uppercase">{{ .Site.Params.slider.title | safeHTML }}</h1>
-          <p class="animated fadeInUp">{{ .Site.Params.slider.subtitle | safeHTML }}</p>
+          <img src="{{ .Site.BaseURL }}img/penta_icon_white.png" height="62" width="62" alt="{{ .Site.Title }} Logo"> 
+          <h1 class="animated fadeInUp text-uppercase">{{ .Site.Data.slider.title | safeHTML }}</h1>
+            <br>
+          <div class="row">
+            <div class="col-md-6 col-md-offset-3">
+              <h4 class="animated fadeInUp white">{{ .Site.Data.slider.desc }}</h4>
+              </div>
+          </div>
         </div>
       </div>
     </div>
   </div>
+
+  
 </section>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech Buterin Large Scale on Penta Global</title>
+    <link>/ko/tags/tech-buterin-large-scale/</link>
+    <description>Recent content in Tech Buterin Large Scale on Penta Global</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Aug 2018 13:47:08 +0200</lastBuildDate>
+    
+	<atom:link href="/ko/tags/tech-buterin-large-scale/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Guide to 99% Fault Tolerant Consensus, What Does that Really Mean?</title>
+      <link>/ko/blog/buterin-fault-tolerance/</link>
+      <pubDate>Mon, 27 Aug 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/ko/blog/buterin-fault-tolerance/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Introduction: Penta Global was founded to be the most economically inclusive blockchain platform for the digital economy. Its &amp;#39;universal connector&amp;#39; mission is to be a global network that interoperates and interconnects with other projects and off-chain systems. As part of this mission we keep a close watch on new developments and emerging ideas from the blockchain community, towards making positive contributions to meaningful areas of research.&lt;/em&gt; &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Buterin Questions, #5 POW is Burning Billions of Dollars per Year, Even More than all Scams and Thefts Combined. Isn’t this a Big Tragedy?</title>
+      <link>/ko/blog/buterin-questions5/</link>
+      <pubDate>Thu, 16 Aug 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/ko/blog/buterin-questions5/</guid>
+      <description>Introduction: WeChat has some excellent channels for lively and informative discussions focussing on blockchain technologies. Ethereum co-founder Vitalik Buterin recently posted a set of blockchain ‘hard questions’ to one of these, and we are publishing responses here in Medium from Penta Global as a way to extend the conversation across the wider blockchain community, with hopes of furthering the conversation and a productive exchange of ideas.
+Q: PoW is burning billions of dollars per year, even more than all scams and thefts combined.</description>
+    </item>
+    
+    <item>
+      <title>The Buterin Questions, #4 How can Decentralized Apps Work Well Even with 5-10 Second Block Latency?</title>
+      <link>/ko/blog/buterin-questions4/</link>
+      <pubDate>Wed, 15 Aug 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/ko/blog/buterin-questions4/</guid>
+      <description>&lt;p&gt;Introduction: WeChat has some excellent channels for lively and informative discussions focussing on blockchain technologies. Ethereum co-founder Vitalik Buterin recently posted a set of blockchain ‘hard questions’ to one of these, and we are publishing responses here in Medium from Penta Global as a way to extend the conversation across the wider blockchain community, with hopes of furthering the conversation and a productive exchange of ideas. &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Buterin Questions, #3 Why are There Not Yet Good Solutions to Account Security? When Will the Problem of Account Hacks and Thefts be Solved?</title>
+      <link>/ko/blog/buterin-questions3/</link>
+      <pubDate>Mon, 13 Aug 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/ko/blog/buterin-questions3/</guid>
+      <description>Introduction: WeChat has some excellent channels for lively and informative discussions focussing on blockchain technologies. Ethereum co-founder Vitalik Buterin recently posted a set of blockchain ‘hard questions’ to one of these, and we are publishing responses here in Medium from Penta Global as a way to extend the conversation across the wider blockchain community, with hopes of furthering the conversation and a productive exchange of ideas.
+Q: Why are there not yet good solutions to account security?</description>
+    </item>
+    
+    <item>
+      <title>The Buterin Questions, #1 Bitmain and Affiliated Pools Now have Approximately 53% of all Bitcoin Hashpower. Isn’t this a Really Big Problem?</title>
+      <link>/ko/blog/buterin-questions1/</link>
+      <pubDate>Tue, 17 Jul 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/ko/blog/buterin-questions1/</guid>
+      <description>Introduction: WeChat has some excellent channels for lively and informative discussions focussing on blockchain technologies. Ethereum co-founder Vitalik Buterin recently posted a set of blockchain ‘hard questions’ to one of these, and we are publishing responses here in Medium from Penta Global as a way to extend the conversation across the wider blockchain community, with hopes of furthering the conversation and a productive exchange of ideas.
+Q: Bitmain and affiliated pools now have approximately 53% of all bitcoin hashpower.</description>
+    </item>
+    
+    <item>
+      <title>The Buterin Questions, #2 Why Aren’t There Any Useful Large Scale Applications Yet?</title>
+      <link>/ko/blog/buterin-questions2/</link>
+      <pubDate>Tue, 17 Jul 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/ko/blog/buterin-questions2/</guid>
+      <description>Introduction: WeChat has some excellent channels for lively and informative discussions focussing on blockchain technologies. Ethereum co-founder Vitalik Buterin recently posted a set of blockchain ‘hard questions’ to one of these, and we are publishing responses here in Medium from Penta Global as a way to extend the conversation across the wider blockchain community, with hopes of furthering the conversation and a productive exchange of ideas.
+Q: Why aren’t there any useful large scale applications yet?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Penta Global</title>
+    <link>/zh-cn/</link>
+    <description>Recent content on Penta Global</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Aug 2018 13:47:08 +0200</lastBuildDate>
+    
+	<atom:link href="/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Guide to 99% Fault Tolerant Consensus, What Does that Really Mean?</title>
+      <link>/zh-cn/blog/buterin-fault-tolerance/</link>
+      <pubDate>Mon, 27 Aug 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/zh-cn/blog/buterin-fault-tolerance/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Introduction: Penta Global was founded to be the most economically inclusive blockchain platform for the digital economy. Its &amp;#39;universal connector&amp;#39; mission is to be a global network that interoperates and interconnects with other projects and off-chain systems. As part of this mission we keep a close watch on new developments and emerging ideas from the blockchain community, towards making positive contributions to meaningful areas of research.&lt;/em&gt; &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Announcement about Strategic investment in ASX listed IoT company, CCP Technologies</title>
+      <link>/zh-cn/blog/penta-acquires-ccp2/</link>
+      <pubDate>Fri, 17 Aug 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/zh-cn/blog/penta-acquires-ccp2/</guid>
+      <description>&lt;p&gt;Dear Penta community members:&lt;/p&gt;
+
+&lt;p&gt;Penta Global is pleased to announce the successful closing on a purchase of shares from the Australian Security Exchange (ASX) listed company, CCP Technologies (CT1) .&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Penta Announces Investment in Shares of ASX Listed Company, CCP Technologies, Using Penta’s PNT Cryptocurrency</title>
+      <link>/zh-cn/blog/penta-acquires-ccp/</link>
+      <pubDate>Fri, 17 Aug 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/zh-cn/blog/penta-acquires-ccp/</guid>
+      <description>&lt;p&gt;On July 17, 2018 Australian Securities Exchange (ASX) listed company, CCP Technologies (ASX:CT1), made a public announcement regarding a significant purchase of shares by the Singapore based Penta Global Blockchain Foundation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Buterin Questions, #5 POW is Burning Billions of Dollars per Year, Even More than all Scams and Thefts Combined. Isn’t this a Big Tragedy?</title>
+      <link>/zh-cn/blog/buterin-questions5/</link>
+      <pubDate>Thu, 16 Aug 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/zh-cn/blog/buterin-questions5/</guid>
+      <description>Introduction: WeChat has some excellent channels for lively and informative discussions focussing on blockchain technologies. Ethereum co-founder Vitalik Buterin recently posted a set of blockchain ‘hard questions’ to one of these, and we are publishing responses here in Medium from Penta Global as a way to extend the conversation across the wider blockchain community, with hopes of furthering the conversation and a productive exchange of ideas.
+Q: PoW is burning billions of dollars per year, even more than all scams and thefts combined.</description>
+    </item>
+    
+    <item>
+      <title>The Buterin Questions, #4 How can Decentralized Apps Work Well Even with 5-10 Second Block Latency?</title>
+      <link>/zh-cn/blog/buterin-questions4/</link>
+      <pubDate>Wed, 15 Aug 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/zh-cn/blog/buterin-questions4/</guid>
+      <description>&lt;p&gt;Introduction: WeChat has some excellent channels for lively and informative discussions focussing on blockchain technologies. Ethereum co-founder Vitalik Buterin recently posted a set of blockchain ‘hard questions’ to one of these, and we are publishing responses here in Medium from Penta Global as a way to extend the conversation across the wider blockchain community, with hopes of furthering the conversation and a productive exchange of ideas. &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Buterin Questions, #3 Why are There Not Yet Good Solutions to Account Security? When Will the Problem of Account Hacks and Thefts be Solved?</title>
+      <link>/zh-cn/blog/buterin-questions3/</link>
+      <pubDate>Mon, 13 Aug 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/zh-cn/blog/buterin-questions3/</guid>
+      <description>Introduction: WeChat has some excellent channels for lively and informative discussions focussing on blockchain technologies. Ethereum co-founder Vitalik Buterin recently posted a set of blockchain ‘hard questions’ to one of these, and we are publishing responses here in Medium from Penta Global as a way to extend the conversation across the wider blockchain community, with hopes of furthering the conversation and a productive exchange of ideas.
+Q: Why are there not yet good solutions to account security?</description>
+    </item>
+    
+    <item>
+      <title>TechLog: The Penta Account Model</title>
+      <link>/zh-cn/blog/penta-account-model/</link>
+      <pubDate>Wed, 01 Aug 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/zh-cn/blog/penta-account-model/</guid>
+      <description>&lt;p&gt;Starting in August, as part of Penta&amp;rsquo;s &amp;#39;universal connector&amp;#39; mission to be a global network that interoperates and interconnects with other projects and off-chain systems we are posting a series of technical documentation articles to Medium. The first of these outlines the Penta Account data model, and how it underpins the rest of the platform architecture.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Penta weekly progress from July 23 through July 29</title>
+      <link>/zh-cn/blog/penta-weekly-progress-from-july-23-through-july-29/</link>
+      <pubDate>Sun, 29 Jul 2018 13:50:46 +0200</pubDate>
+      
+      <guid>/zh-cn/blog/penta-weekly-progress-from-july-23-through-july-29/</guid>
+      <description>Technology Development:
+Random Sorting Algorithm (RSA) &amp;amp; DSC Consensus Algorithm
+This week, the team continue to improve the code module of the algorithm: 1.Complete the development of the Genesis module in the core module. This module is used to initialize the parameters to create data in the governance contract and in the consensus contract. The current progress is 100%.
+Penta chain governance structure
+The development of the governance contract is on-going as planned, with an overall progress of 50%:</description>
+    </item>
+    
+    <item>
+      <title>Penta (PNT) Announcement on the First Stage of the Buyback Program</title>
+      <link>/zh-cn/blog/penta-buyback/</link>
+      <pubDate>Sun, 22 Jul 2018 13:50:46 +0200</pubDate>
+      
+      <guid>/zh-cn/blog/penta-buyback/</guid>
+      <description>&lt;p&gt;Dear Penta community members:&lt;/p&gt;
+
+&lt;p&gt;On July 16, 2018, The Penta Global Foundation initiated the first stage of a buyback program on secondary markets, amounting to a total buyback of 200 million PNT. As of 10:46am (Singapore Time) on July 23, 2018, Penta has fully completed the Stage 1 buyback.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Penta weekly progress from July 16 through July 22</title>
+      <link>/zh-cn/blog/penta-weekly-progress-from-july-16-through-july-22/</link>
+      <pubDate>Sun, 22 Jul 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/zh-cn/blog/penta-weekly-progress-from-july-16-through-july-22/</guid>
+      <description>Random Sorting Algorithm (RSA) &amp;amp; DSC Consensus Algorithm This week, the technical team continued the test automation, built an internal test environment (in a continuous integration / continuous delivery system), and optimized the performance of the core module:
+1.Optimize the DSC consensus network flow to increase the efficiency of the network protocol.
+Penta main-chain governance structure
+The development of the governance contract is in progress, and the STUB code is written to cooperate with the consensus algorithm QA.</description>
+    </item>
+    
+    <item>
+      <title>The Buterin Questions, #1 Bitmain and Affiliated Pools Now have Approximately 53% of all Bitcoin Hashpower. Isn’t this a Really Big Problem?</title>
+      <link>/zh-cn/blog/buterin-questions1/</link>
+      <pubDate>Tue, 17 Jul 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/zh-cn/blog/buterin-questions1/</guid>
+      <description>Introduction: WeChat has some excellent channels for lively and informative discussions focussing on blockchain technologies. Ethereum co-founder Vitalik Buterin recently posted a set of blockchain ‘hard questions’ to one of these, and we are publishing responses here in Medium from Penta Global as a way to extend the conversation across the wider blockchain community, with hopes of furthering the conversation and a productive exchange of ideas.
+Q: Bitmain and affiliated pools now have approximately 53% of all bitcoin hashpower.</description>
+    </item>
+    
+    <item>
+      <title>The Buterin Questions, #2 Why Aren’t There Any Useful Large Scale Applications Yet?</title>
+      <link>/zh-cn/blog/buterin-questions2/</link>
+      <pubDate>Tue, 17 Jul 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/zh-cn/blog/buterin-questions2/</guid>
+      <description>Introduction: WeChat has some excellent channels for lively and informative discussions focussing on blockchain technologies. Ethereum co-founder Vitalik Buterin recently posted a set of blockchain ‘hard questions’ to one of these, and we are publishing responses here in Medium from Penta Global as a way to extend the conversation across the wider blockchain community, with hopes of furthering the conversation and a productive exchange of ideas.
+Q: Why aren’t there any useful large scale applications yet?</description>
+    </item>
+    
+    <item>
+      <title>Penta Network Governance</title>
+      <link>/zh-cn/blog/penta-governance/</link>
+      <pubDate>Fri, 13 Jul 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/zh-cn/blog/penta-governance/</guid>
+      <description>Overview
+The primary goals of the Penta public blockchain are: decentralization, fairness and trust. In order to meet these, besides Penta, any public blockchain project needs to have a clear governance structure to avoid destructive actions or misaligned intentions by the core developers, or the block producers. Penta aims for a governance process that is both transparent and robust to corruption.
+At the center of Penta’s mission to increase economic inclusion and the stability of its blockchain, is a lowering of barriers to entry and increased opportunities for stakeholders to participate in the ecosystem.</description>
+    </item>
+    
+    <item>
+      <title>LFE and Penta Partnership Announcement</title>
+      <link>/zh-cn/blog/lfe-penta/</link>
+      <pubDate>Wed, 11 Jul 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/zh-cn/blog/lfe-penta/</guid>
+      <description>Announcing the biggest blockchain project in football. The London Football Exchange is joining forces with Penta, a next generation public blockchain, to build the first decentralized application for a fan-driven football community. LFE and Penta will offer fans worldwide the chance to experience football in a new and exciting way: receive access to exclusive event tickets, private tours of football clubs and stadiums, opportunities to meet with your favourite football stars and coaches, special merchandise offers, and more.</description>
+    </item>
+    
+    <item>
+      <title>Penta (PNT) Trading on HADAX Postponed, to Open at 15:00, June 22</title>
+      <link>/zh-cn/blog/trading-on-hadax/</link>
+      <pubDate>Wed, 20 Jun 2018 15:03:01 +0900</pubDate>
+      
+      <guid>/zh-cn/blog/trading-on-hadax/</guid>
+      <description>&lt;p&gt;Dear all,&lt;/p&gt;
+
+&lt;p&gt;Due to HADAX system issues, Penta (PNT) trading which was originally scheduled to open 15:00, June 20(GMT+8) will be postponed to open at 15:00, June 22 (GMT+8).  Withdrawals will be available from 14:30 June 23, 2018 (GMT+8). Sorry for the inconvenience caused.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Penta (PNT) official announcement to the community</title>
+      <link>/zh-cn/blog/linked-post/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>/zh-cn/blog/linked-post/</guid>
+      <description>Penta (PNT) official announcement to the community The Penta Global Foundation believes that recent market pressures have driven the price of PNT far below its true value. In response, the Penta Global Foundation has decided to initiate a buyback program on secondary markets.The total buyback will be 10% of the current circulating supply, amounting to 1.8 billion PNT. As of July 16, 2018, Penta officially started the first stage of the buyback process with a total amount of 200 million PNT.</description>
+    </item>
+    
+    <item>
+      <title>Penta (PNT) official announcement to the community</title>
+      <link>/zh-cn/blog/penta-announcement/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>/zh-cn/blog/penta-announcement/</guid>
+      <description>Penta (PNT) official announcement to the community The Penta Global Foundation believes that recent market pressures have driven the price of PNT far below its true value. In response, the Penta Global Foundation has decided to initiate a buyback program on secondary markets. The total buyback will be 10% of the current circulating supply, amounting to 1.8 billion PNT. As of July 16, 2018, Penta officially started the first stage of the buyback process with a total amount of 200 million PNT.</description>
+    </item>
+    
+    <item>
+      <title>5-Dimensions</title>
+      <link>/zh-cn/service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/zh-cn/service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/zh-cn/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/zh-cn/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>/zh-cn/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/zh-cn/work/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+enable: true
+title: Just some of our latest projects
+subtitle: Don’t just take our word for it. Check out some of our latest work.
+
+portfolio:
+  - category: Permission Chains
+    url: "#"
+    image: "/img/projects/rice.jpg"
+    name: Blockchain Rice
+    description: >
+      Blockchain Rice: a food traceability and  supply chain project that touches over 30,000 rice growers and allows consumers to ensure food safety using blockchain technology.
+  - category: Websites
+    url: "https://lfe.com/"
+    image: "/img/projects/lfe.jpg"
+    name: Penta - London Football Exchange
+    description: >
+      Building the world's first and largest fan-driven blockchain community for football
+  - category: Websites
+    url: "https://www.fanstime.org/english.html"
+    image: "/img/projects/fanstime.png"
+    name: Fanstime
+    description: >
+      The future of audience interaction and blockchain for media
+  - category: Research
+    url: "#"
+    image: "/img/projects/pentax.jpg"
+    name: Penta Lab
+    description: >
+      Engaging the research and education communities
+  - category: Education
+    image: "/img/projects/colorado.jpg"
+    name: Penta Lab and STEM
+    description: >
+      STEM educational programs at all school levels
+
+clients:
+  - image: "/img/clients/clientlogo1.png"
+    url: "https://blockshine.com/"
+  - image: "/img/clients/clientlogo2.png"
+    url: "#"
+  - image: "/img/clients/clientlogo3.png"
+    url: "#"
+  - image: "/img/clients/clientlogo4.png"
+    url: "#"
+  - image: "/img/clients/clientlogo5.png"
+    url: "https://www.hashcaijing.com/"
+  - image: "/img/clients/clientlogo6.png"
+    url: "https://lfe.com/"
+  - image: "/img/clients/clientlogo7.png"
+    url: "#"
+  - image: "/img/clients/clientlogo8.png"
+    url: "#"
+  - image: "/img/clients/clientlogo9.png"
+    url: "#"
+  - image: "/img/clients/clientlogo10.png"
+    url: "#"
+  - image: "/img/clients/clientlogo1.png"
+    url: "#"
+  - image: "/img/clients/clientlogo2.png"
+    url: "#"

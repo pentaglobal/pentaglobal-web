@@ -1,32 +1,49 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ .Site.Language.Lang }}">
 <head>
 	
 	{{ partial "head.html" . }}
-
+	
+	{{ if .IsTranslated }}
+    	{{ range .Translations }}
+    	<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
+    	{{ end }}
+	{{ end }}
 </head>
 <body>
 
 	{{ partial "header.html" . }}
 
-	{{ if and (isset .Site.Params "slider") (.Site.Params.slider.enable) }}
+	{{ if and .Site.Data.slider .Site.Data.slider.enable }}
 		{{ partial "slider.html" . }}
 	{{ end }}
 
-	{{ if and (isset .Site.Params "wrapper") (.Site.Params.wrapper.enable) }}
-		{{ partial "wrapper.html" . }}
+	{{ if and .Site.Data.connect .Site.Data.connect.enable }}
+		{{ partial "connect.html" . }}
 	{{ end }}
 
-	{{ if and (isset .Site.Params "feature") (.Site.Params.feature.enable) }}
+	{{ if and .Site.Data.feature .Site.Data.feature.enable }}
 		{{ partial "feature.html" . }}
 	{{ end }}
 
+	{{  if and .Site.Data.youtube .Site.Data.youtube.enable }}
+		{{ partial "youtube.html" . }}
+	{{ end }}
 
 	{{ if and .Site.Data.service .Site.Data.service.enable }}
 		{{ partial "service.html" . }}
 	{{ end }}
 
-	{{ if and (isset .Site.Params "call") (.Site.Params.call.enable) }}
+	{{  if and .Site.Data.roadmap .Site.Data.roadmap.enable }}
+		{{ partial "roadmap.html" . }}
+	{{ end }}
+
+<!-- 	{{ if and (isset .Site.Data "wrapper") (.Site.Data.wrapper.enable) }}
+		{{ partial "wrapper.html" . }}
+	{{ end }} -->
+
+
+	{{ if and .Site.Data.call .Site.Data.call.enable }}
 		{{ partial "call-to-action.html" . }}
 	{{ end }}
 

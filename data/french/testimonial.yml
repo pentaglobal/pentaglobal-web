@@ -1,0 +1,35 @@
+enable: true
+title: Fun Facts About Penta
+paragraph: >
+  A fully integrated network infrastructure enabling people, businesses, and communities to exchange things of value in a secure, seamless, and efficient way. The kind of blockchain infrastructure needed to power the Smart Economy of tomorrow.
+
+numbers:
+  - icon: ion-android-globe
+    counter: 4
+    text: On Four Continents
+  - icon: ion-android-contacts
+    counter: 50
+    text: With 50 Hard Working Engineers
+  - icon: ion-coffee
+    counter: 30123
+    text: And many Cups of Coffee
+  - icon: ion-android-share-alt
+    counter: 1000000
+    text: Serving the Blockchain Community
+
+people:
+  - text: >
+      David Ritter is the CEO of Penta Global Blockchain Foundation. Mr. Ritter received his degree in financial and sociopolitical history from the University of Southern California. Fluent in Chinese and French, he spent ten years in private equity, doing fund management and cross-border investment. He served as Project Director of DGI, where he managed a variety of fund projects with a portfolio value of more than 1 billion (USD), with marquis projects in Melbourne and New York, including 277 Fifth Avenue. David also managed a Hollywood P&A Fund in partnership with major Hollywood studios.
+    image: img/team/david.png
+    name: David Ritter
+    role: CEO, Co-founder of Penta
+  - text: >
+      Dr. Melnikoff is a quantum physicist, mathematician, and computer scientist, graduating from MIT in 1978.In 1985, he received a doctorate degree in physics from the University of California Riverside. Dr. Melnikoff pursued a postdoctoral career in physics with the Lawrence Livermore National Laboratory – one of the most renowned labs in the United States. He is an honorable visiting scholar, PhD supervisor, professor of physics and computer science of the University of Melbourne. In addition to work in the private sector, Dr. Melnikoff has also worked on advanced government related projects.
+    image: img/team/steve.png
+    name: Dr. Steve Melnikoff
+    role: CSO - Co-founder of Penta
+  - text: >
+      Mr. Finkel is a California attorney, marketing specialist and innovator of mobile and web apps. Mr. Finkel has led the marketing strategies and business development for companies in the entertainment, construction and automotive space.
+    image: img/team/alan.png
+    name: Alan Finkel
+    role: Lead Ecosystem Ambassador, USA

@@ -6,14 +6,16 @@
         <div class="row">
           <div class="col-md-12">
             <div class="block">
-              <div class="portfolio-menu">
+            <!--   
+            it need to be fixed
+            <div class="portfolio-menu">
                 <ul>
                     <li class="filter" data-filter="all">Everything</li>
                   {{ range .Site.Data.work.portfolio }}
                     <li class="filter" data-filter=".{{ .category }}">{{ .category }}</li>
                   {{ end }}
                 </ul>
-              </div>
+              </div> -->
               <div class="portfolio-contant">
                 <ul id="portfolio-contant-active">
                   {{ range .Site.Data.work.portfolio }}
@@ -57,7 +59,7 @@
   </div>
 </section>
 
-
+<!-- 
 {{ if isset .Site.Data.work "call" }}
   {{ partial "call-to-action.html" .Site.Data.work.call }}
-{{ end}}
+{{ end}} -->
