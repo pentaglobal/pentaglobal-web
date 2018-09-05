@@ -1,34 +1,34 @@
 enable: true
-title: About Penta
+title: À propos de Penta
 subtitle: >
-  Realizing the Universal Blockchain Connector for the Smart Economy
+  Réaliser le connecteur universel de la blockchain pour la smart économie
 content:
   
   - icon: penta-icon1
-    name: Next Generation Public Blockchain
+    name: Blockchain publique de nouvelle génération
     text: >
-      Penta combines robust blockchain infrastructure with a uniquely scalable and secure consensus algorithm for a high-performance DAPP platform.
+      Penta associe une infrastructure blockchain robuste à un algorithme de consensus unique, évolutif et sécurisé, pour une plate-forme DAPP haute performance.
   - icon: penta-icon2
-    name: Realizing the Promise of Blockchain
+    name: Réaliser la promesse de la blockchain
     text: >
-      Building on the success of its permission blockchain projects, the Penta development team now brings @scale public blockchain technologies too. 
+      Forte du succès de ses projets privés, l'équipe de développement de Penta apporte désormais également la technologie de blockchain publiques à grande échelle. 
 
   - icon: penta-icon3
-    name: Five Dimensions of Connectivity
+    name: Cinq dimensions pour la connectivité
     text: >
-      Your Identity, Credibility, Value, Transferability, and Our Economy; the five key dimensions Penta connects the digital and real worlds with.
+      Votre identité, crédibilité, valeur, transférabilité et notre économie; les cinq dimensions clés avec lesquelles Penta connecte les mondes numérique et réel.
 
   - icon: penta-icon4
     name: Universal Connection Layer
     text: >
-     A global network that interoperates and interconnects with other blockchain projects and off-chain, Cloud systems. 
+     Un réseau mondial interopérant et interconnectant avec d'autres projets de blockchain et des systèmes Cloud centralisés. 
 
   - icon: penta-icon5
-    name: Ten Core Technologies
+    name: Dix technologies principales
     text: >
-     Innovative technological features and platform architecture drive Penta to deliver the world’s foremost high-reliability and high-availability blockchain network.
+     Les caractéristiques technologiques innovantes et l’architecture de la plate-forme poussent Penta à fournir le réseau de blockchain haute fiabilité et haute disponibilité la plus avancée au monde.
 
   - icon: penta-icon6
-    name: Inclusive Blockchain Ecosystem
+    name: Écosystème de blockchain inclusif
     text: >
-     Penta's ‘universal connector’ mission is to be the world’s most inclusive and decentralized blockchain network.
+     La mission du «connecteur universel» de Penta est d’être le réseau de blockchain le plus complet et le plus décentralisé au monde.

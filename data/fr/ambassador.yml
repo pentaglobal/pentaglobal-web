@@ -1,20 +1,20 @@
 enable: true
 title: Penta Ambassador Program
 subtitle: >
-  Latest news regarding our ambassador program
+  Dernières nouvelles concernant notre programme d'ambassadeur 
 
-description1: "What exactly is a brand ambassador program?"
-description2: "A brand ambassor program is a community of users and customers who love Penta project. At Penta, our ambassadors’ success is aligned with our foundation main objective. You, as an ambassadors are not only spreading the word at Penta, but you actually have the possibility to improve your own skills regarding social media and you will also be able to empower leaders and really around a shared passion. Relationships with people are the key skill to become part of Penta ambassador program. This should be an exciting journey for you and it will be."
-description3: "If you want to apply to be part of our Ambassador, please fill the form: "
+description1: "Qu'est-ce qu'un programme d'ambassadeur?"
+description2: "Un programme d'ambassadeur est une communauté d'utilisateurs et clients qui sont utilisateurs/fan du projet Penta. Le succès des ambassadeurs Penta, concorde avec notre principal objectif. Vous, en tant qu'ambassadeurs vous ne faites pas que représenter Penta, mais vous avez la possibilité d'améliorer vos compétences sur l'utilisation des médias sociaux et vous pourrez également renforcer vos compétences autour d'une passion commune. "
+description3: "Si tu veux demander à faire partie de notre ambassadeur, veuillez remplir le formulaire: "
 url: "https://goo.gl/forms/teSKXfa1zlWvd9qI3"
 
 portfolio:
   - category: Meetup Event
     url: "https://twitter.com/Penta_GF/status/1031481395116429313"
     image: "/img/ambassador/wilson_kule_001.png"
-    name: Penta held first meetup in Uganda-East Africa successfully! @wilson_kule
+    name: Penta premier meetup en ouganda, afrique de l'est !  @wilson_kule
     description: >
-      Penta held first meetup in Uganda-East Africa successfully! @wilson_kule, Penta Ambassador Uganda/East Africa shared the latest development on Penta and attendees show great interests in @Penta_GF . The Penta Team hopes to continue spreading positive energy all over the world!
+      Penta premier meetup en ouganda, afrique de l'est ! @wilson_kule, Penta Ambassador Uganda/East Africa shared the latest development on Penta and attendees show great interests in @Penta_GF . The Penta Team hopes to continue spreading positive energy all over the world!
   - category: Intro
     url: "https://goo.gl/forms/teSKXfa1zlWvd9qI3"
     image: "/img/ambassador/ambassador_poster_v1.png"

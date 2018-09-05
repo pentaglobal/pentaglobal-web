@@ -1,6 +1,6 @@
 enable: true
-title: Just some of our latest projects
-subtitle: Don’t just take our word for it. Check out some of our latest work.
+title: Juste quelques-uns de nos derniers projets
+subtitle: Ne vous contentez pas de nous croire. Découvrez certains de nos derniers travaux.
 
 portfolio:
   - category: Permission Chains
@@ -8,30 +8,30 @@ portfolio:
     image: "/img/projects/rice.jpg"
     name: Blockchain Rice
     description: >
-      Blockchain Rice: a food traceability and  supply chain project that touches over 30,000 rice growers and allows consumers to ensure food safety using blockchain technology.
+      Blockchain Rice: un projet de traçabilité alimentaire et de chaîne d'approvisionnement qui touche plus de 30 000 producteurs de riz et permet aux consommateurs de garantir la sécurité alimentaire grâce à la technologie de la blockchain.
   - category: Websites
     url: "https://lfe.com/"
     image: "/img/projects/lfe.jpg"
     name: Penta - London Football Exchange
     description: >
-      Building the world's first and largest fan-driven blockchain community for football
+      Construire la première et la plus grande communauté au monde de football
   - category: Websites
     url: "https://www.fanstime.org/english.html"
     image: "/img/projects/fanstime.png"
     name: Fanstime
     description: >
-      The future of audience interaction and blockchain for media
+      L'avenir de l'interaction du public et de la blockchain pour les médias
   - category: Research
     url: "#"
     image: "/img/projects/pentax.jpg"
     name: Penta Lab
     description: >
-      Engaging the research and education communities
+      Engager les communautés de recherche et d'éducation
   - category: Education
     image: "/img/projects/colorado.jpg"
     name: Penta Lab and STEM
     description: >
-      STEM educational programs at all school levels
+      Programmes éducatifs STEM à tous les niveaux scolaires
 
 clients:
   - image: "/img/clients/clientlogo1.png"

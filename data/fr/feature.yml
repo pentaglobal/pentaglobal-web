@@ -1,8 +1,8 @@
 enable: true
-title: "We believe in great ideas"
-content1: "The Penta Network is designed to connect to a wide range of blockchain networks, existing digital networks and off-chain systems. Penta is first in providing a comprehensive solution to the blockchain interoperability problem."
-content2: "At its core is a robust public blockchain infrastructure that supports a high-performance application platform. In the same way you download apps onto your smart device from an App Store, you will be able to access decentralized applications (DApps) to run on the Penta blockchain. Launching a Penta DApp will enable everyone to navigate digital networks as productive tools for the digital economy."
-content3: "The mission of Penta is to become the “Universal Blockchain Connector” through unique, innovative technology and a commitment to building an inclusive and decentralized community connecting the world to blockchain technology."
+title: "Nous croyons aux bonnes idées"
+content1: "Le réseau Penta est conçu pour se connecter à un large éventail de réseaux de blockchain, de réseaux numériques existants et de systèmes hors blockchain. Penta est le premier à fournir une solution complète au problème d’interopérabilité de la blockchain."
+content2: "À la base, il existe une infrastructure de blockchain publique robuste qui prend en charge une plate-forme d'application haute performance. De la même manière que vous téléchargez des applications sur votre smartphone depuis un App Store, vous pourrez accéder à des applications décentralisées (DApps) qui fonctionne sur la blockchain Penta. Le lancement d'un Penta DApp permettra à chacun de naviguer sur les réseaux numériques en tant qu'outils productifs pour l'économie numérique."
+content3: "La mission de Penta est de devenir le «Universal Blockchain Connector» grâce à une technologie unique et innovante et un engagement à construire une communauté inclusive et décentralisée connectant le monde à la technologie de la blockchain."
 button:
-  caption: "View our projects"
+  caption: "Voir nos projets"
   url: "/work"

@@ -1,21 +1,21 @@
 enable: true
 title: Fun Facts About Penta
 paragraph: >
-  A fully integrated network infrastructure enabling people, businesses, and communities to exchange things of value in a secure, seamless, and efficient way. The kind of blockchain infrastructure needed to power the Smart Economy of tomorrow.
+  Une infrastructure réseau entièrement intégrée permettant aux personnes, aux entreprises et aux communautés d'échanger des informations de manière sécurisée, transparente et efficace. Le type d'infrastructure de blockchain nécessaire pour alimenter l'économie intelligente de demain.
 
 numbers:
   - icon: ion-android-globe
     counter: 4
-    text: On Four Continents
+    text: Sur quatre continents
   - icon: ion-android-contacts
     counter: 50
-    text: With 50 Hard Working Engineers
+    text: Avec 50 ingénieurs
   - icon: ion-coffee
     counter: 30123
-    text: And many Cups of Coffee
+    text: Et plusieurs tasses de café
   - icon: ion-android-share-alt
     counter: 1000000
-    text: Serving the Blockchain Community
+    text: Servir la Communauté Blockchain
 
 people:
   - text: >

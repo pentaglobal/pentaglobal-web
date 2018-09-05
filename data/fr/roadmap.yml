@@ -1,6 +1,6 @@
 enable: true
 title: "Roadmap"
-content1: "Penta Network launched in Singapore in January 2018 with the goal of been a new-generation of underlying blockchain network. Since we officially present Penta we have been working hard in our research. Penta Network will build Penta DLOS, Penta Blockchain, high performance DApp platform and Penta connector. This would make blockchain a universally-benefiting technology, make it easier to create and apply blockchain technologies and ultimately provide a platform that connects the world of blockchain in the future."
+content1: "Penta Global Foundation a été lancé à Singapour en janvier 2018 dans le but de devenir une nouvelle génération de réseau de blockchain. Depuis que nous avons présenté officiellement Penta, nous avons travaillé dans nos recherches. Penta Network construit Penta DLOS, Penta Blockchain, une plate-forme DApp haute performance et un connecteur. Cela fera de la blockchain une technologie universelle, facilitera la création et l’application de technologies de blockchain et fournira une plate-forme qui reliera le monde de la blockchain au future."
 button:
-  caption: "View our live roadmap"
+  caption: "Voir notre feuille de route en direct"
   url: "/roadmap"
