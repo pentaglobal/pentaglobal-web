@@ -1,18 +1,18 @@
 enable: true
-title: "Drop us a note"
-content1: "We are building an inclusive community."
+title: "Laissez nous une note"
+content1: "Nous construisons une communauté inclusive."
 form:
-  name: "Your name"
-  email: "Your email"
-  subject: "Your subject"
-  message: "Your message"
-  button: "Send message"
+  name: "Votre nom"
+  email: "Votre email"
+  subject: "Votre objet"
+  message: "Votre message"
+  button: "Envoyer"
 
 box:
-  title: "Stop by for a visit"
+  title: "Arrêtez-vous pour une visite"
   address: "181 2nd Street, San Francisco, CA "
   email: "Email: molly.ma@penta.global"
-  phone: "Phone: +88 01672 506 744"
+  phone: "Téléphone: +88 01672 506 744"
 
 gmaps:
-  title:  "We Also Count in Google Maps"
+  title:  "Nous comptons également sur Google Maps"
