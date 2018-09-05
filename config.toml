@@ -1,26 +1,40 @@
 title = "Penta Global"
-baseURL = "/"
-languageCode = "en-us"
 theme = "airspace-hugo"
+DefaultContentLanguage = "en-us"
+
+disableLanguages = ["ko", "zh-cn"]
+
+baseURL = "/"
 
 [menu]
-
   [[menu.header]]
     weight = 2
-    name = "Blog"
-    url = "/blog"
-  [[menu.header]]
-    weight = 3
-    name = "Projects"
+    name = "PROJECT"
     url = "/work"
   [[menu.header]]
     weight = 4
-    name = "5-Dimensions"
+    name = "BLOG"
+    url = "/blog"
+  [[menu.header]]
+    weight = 3
+    name = "ABOUT"
     url = "/service"
   [[menu.header]]
-    weight = 5
-    name = "Contact"
+    weight = 10
+    name = "CONTACT US"
     url = "/contact"
+#  [[menu.header]]
+#    weight = 6
+#    name = "RESOURCES"
+#    url = "/resources"
+  [[menu.header]]
+    weight = 7
+    name = "AMBASSADOR"
+    url = "/ambassador"
+  [[menu.header]]
+    weight = 8
+    name = "ROADMAP"
+    url = "/roadmap"
 
   [[menu.footer]]
     weight = 1
@@ -39,7 +53,35 @@ theme = "airspace-hugo"
     name = "Blog"
     url = "/blog"
 
-# The site's parameters
+[languages]
+[languages.en-us]
+title = "Penta Global"
+languageName = "English"
+weight = 1
+contentDir = "content/english"
+dataDir = "data"
+
+[languages.zh-cn]
+title = "Penta Global"
+languageName = "简体中文"
+weight = 2
+contentDir = "content/chinese-simplified"
+dataDir = "data/zh-cn"
+
+[languages.ko]
+title = "Penta Global"
+languageName = "한국어"
+weight = 3
+contentDir = "content/korean"
+dataDir = "data/ko"
+
+[languages.fr]
+title = "Penta Global"
+languageName = "Français"
+weight = 4
+contentDir = "content/french"
+dataDir = "data/fr"
+
 [params]
 
   # If you want to remove the copyright text you need a Themefisher license.
@@ -50,51 +92,3 @@ theme = "airspace-hugo"
  date_format = "Mon, Jan 2, 2006"
 
   #home = "Home"
-
-  [params.slider]
-    enable = true
-    title = "Penta Global"
-    subtitle = "The Universal Blockchain Connector"
-
-  [params.wrapper]
-    enable = true
-    title = "About"
-    italic = "We are currently living in the Blockchain technology revolution. From simplest transactions to supply-chain disrupting applications, Blockchains are poised to transform the modern world. And, Penta is the future's next-gen Blockchain platform, to change up everything now."
-    paragraph = "'Penta' or 'PNT', short for Penta Network, is a next generation blockchain platform for both public and private projects. Designed to be a premier platform for transferring value, and operating high-performance decentralized applications Penta will remove roadblocks and reshape the blockchain landscape. With an emphasis on contributing to the real economy, Penta's unique consensus algorithm (DSC) and its truly distributed network architecture is building the world’s most inclusive, equitable, and decentralized blockchain community."
-  [params.blog]
-    enable = true
-    title = "Latest On Penta Global"
-    subtitle = "Catch up with us, anytime and anywhere"
-
-  [params.feature]
-    enable = true
-    title = "We believe in great ideas"
-    content1 = "The Penta Network is designed to connect to a wide range of blockchain networks, existing digital networks and off-chain systems. Penta is first in providing a comprehensive solution to the blockchain interoperability problem."
-    content2 = "At its core is a robust public blockchain infrastructure that supports a high-performance application platform. In the same way you download apps onto your smart device from an App Store, you will be able to access decentralized applications (DApps) to run on the Penta blockchain. Launching a Penta DApp will enable everyone to navigate digital networks as productive tools for the digital economy."
-    content3 = "The mission of Penta is to become the “Universal Blockchain Connector” through unique, innovative technology and a commitment to building an inclusive and decentralized community connecting the world to blockchain technology."
-    [params.feature.button]
-      caption = "View our projects"
-      url = "/work"
-
-  [params.call]
-    enable = true
-    title = "Technology Without Borders or Limits"
-    paragraph = "With the capacity to transform how people, organizations, government and business transact. "
-
-  [params.contact]
-    enable = true
-    title = "Drop us a note"
-    subtitle = "We are building an inclusive community."
-    [params.contact.form]
-      name = "Your name"
-      email = "Your email"
-      subject = "Your subject"
-      message = "Your message"
-      button = "Send message"
-    [params.contact.box]
-      title = "Stop by for a visit"
-      address = "181 2nd Street, San Francisco, CA "
-      email = "Email: molly.ma@penta.global"
-      phone = "Phone: +88 01672 506 744"
-    [params.contact.gmaps]
-      title = "We Also Count in Google Maps"

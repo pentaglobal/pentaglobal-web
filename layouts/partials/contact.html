@@ -1,7 +1,9 @@
-{{ partial "global-header.html" .Site.Params.contact }}
+{{ $data := index .Site.Data .Site.Language.Lang}}
+
+{{ partial "global-header.html" $data.contact }}
 
 <!-- contact form start -->
-{{ with .Site.Params.contact }}
+{{ with $data.contact }}
 <section id="contact-form">
   <div class="container">
     <div class="row">

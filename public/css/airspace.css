@@ -26,6 +26,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
 }
+
 h1,
 h2,
 h3,
@@ -34,17 +35,31 @@ h5,
 h6 {
   font-family: 'Roboto', sans-serif;
 }
+
 h2 {
   font-size: 30px;
   font-weight: 400;
+}
+h2.white{
+  color: #fff;
 }
 h3 {
   font-size: 28px;
   font-weight: 300;
 }
+h4 {
+  font-family: 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  font-size: 15px;
+  line-height: 19px;
+  font-weight: 400/
+}
 p {
   font-size: 15px;
   line-height: 28px;
+}
+p.white {
+  color: #fff;
 }
 ul {
   padding: 0;
@@ -97,9 +112,10 @@ header .navbar-default .navbar-nav {
   padding-top: 10px;
 }
 header .navbar-default .navbar-nav li a {
-  color: #333333;
-  padding: 10px 26px;
+  color: #3c2966;
+  padding: 10px 20px;
   font-size: 15px;
+  font-weight: 600;
 }
 font header .navbar-default .navbar-nav li a:hover {
   color: #000;
@@ -114,12 +130,13 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #slider {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  background: url("../img/slider-bg-1.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
-  padding: 200px 0 160px 0;
+  padding: 150px 0 150px 0;
   position: relative;
+  text-align: center;
 }
 #slider:before {
   content: "";
@@ -130,18 +147,20 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #8b86a3, #322e40);
-  opacity: 0.8;
+  background: linear-gradient(to top, rgb(101, 94, 122, 0.9), rgb(62, 41, 102,0.9)); 
+  /*background: linear-gradient(to left, #8b86a3, #322e40);*/
+  /*opacity: 0.8;*/
 }
 #slider .block {
   color: #E3E3E4;
 }
 #slider .block h1 {
   font-family: 'Roboto', sans-serif;
-  font-weight: 350;
+  font-weight: 900;
   font-size: 45px;
   line-height: 60px;
   letter-spacing: 10px;
+  text-align: center;
   /*padding-bottom: 45px; */
 }
 #slider .block p {
@@ -156,6 +175,9 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #intro {
   padding: 100px 0;
+  /*background: -webkit-gradient(linear, left top, left bottom, from(#a729c7), to(#fff), color-stop(0.25, #fff));*/
+  /*background: linear-gradient(to bottom, rgba(150, 0, 188, 0.84), rgba(255, 255, 255)); */
+  
 }
 #intro .block h2 {
   padding-top: 35px;
@@ -178,6 +200,123 @@ font header .navbar-default .navbar-nav li a:hover {
 #intro .section-title p {
   padding-top: 20px;
 }
+
+/*--
+  Roadmap Start
+--*/
+#roadmap {
+  text-align: center;
+  margin-bottom:30px;
+  /*padding: 80px 0;*/
+  /*background: -webkit-gradient(linear, left top, left bottom, from(#a729c7), to(#fff), color-stop(0.25, #fff));*/
+  /*background: linear-gradient(to bottom, rgba(150, 0, 188, 0.84), rgba(255, 255, 255)); */
+  
+}
+#roadmap .block h2 {
+  padding-top: 35px;
+  line-height: 27px;
+  margin: 0;
+}
+#roadmap .block p {
+  color: #555555;
+  padding-top: 10px;
+}
+#roadmap .block img {
+  padding-left: 30px;
+  width: 100%;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+#roadmap .section-title {
+  margin-bottom: 0px;
+}
+#roadmap .section-title p {
+  padding-top: 20px;
+}
+#roadmap .btn-view-roadmap {
+  background: #3e2966;
+  color: #ffffff;
+  padding: 10px 20px;
+}
+
+/*--
+  connect Start
+--*/
+#connect {
+  text-align: center;
+  /*background: url("../img/penta_rise_bg.jpg");*/
+  background-color: #323342 ;
+  padding: 80px 0;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: 10% 0%;
+  padding: 10px 0 10px 0;
+  position: relative;
+  text-align: center;
+}
+
+#connect .block h2 {
+  padding-top: 35px;
+  line-height: 27px;
+  margin: 0;
+}
+#connect .block p {
+  color: #555555;
+  padding-top: 10px;
+}
+#connect .block img {
+  padding-left: 30px;
+  width: 100%;
+  padding-bottom: 10px;
+  padding-top: 10px;
+
+}
+#connect .section-title {
+  margin-bottom: 0px;
+  text-decoration-color: #fff;
+}
+#connect .section-title p {
+  padding-top: 20px;
+  text-decoration-color: #fff;
+}
+
+/*--
+  youtube Start
+--*/
+#youtube {
+  text-align: center;
+  margin-bottom:0px;
+  background: #000;
+  padding: 0px 0;
+  /*background: -webkit-gradient(linear, left top, left bottom, from(#a729c7), to(#fff), color-stop(0.25, #fff));*/
+  /*background: linear-gradient(to bottom, rgba(150, 0, 188, 0.84), rgba(255, 255, 255)); */
+  
+}
+#youtube .block h2 {
+  padding-top: 35px;
+  line-height: 27px;
+  margin: 0;
+}
+#youtube .block p {
+  color: #555555;
+  padding-top: 10px;
+}
+#youtube .block img {
+  padding-left: 30px;
+  width: 100%;
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+#youtube .section-title {
+  margin-bottom: 0px;
+  text-decoration-color: #fff;
+}
+#youtube .section-title p {
+  padding-top: 20px;
+  text-decoration-color: #fff;
+}
+
+
 /*--
 	service Start
 --*/
@@ -209,7 +348,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	call-to-action Start
 --*/
 #call-to-action {
-  background: url("../img/call-to-action-bg.jpg") no-repeat;
+  /*background: url("../img/call-to-action-bg.jpg") no-repeat;*/
   background-size: cover;
   background-attachment: fixed;
   padding: 70px 0px;
@@ -226,8 +365,9 @@ font header .navbar-default .navbar-nav li a:hover {
   bottom: 0;
   width: 100%;
   height: 100%;
-  background: #1d192c;
-  opacity: 0.8;
+  /*background: #1d192c;*/
+  background: #3e2966;
+  /*opacity: 0.8;*/
 }
 #call-to-action h2 {
   padding-bottom: 20px;
@@ -251,9 +391,10 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  background: url("../img/featue-bg.jpg");
+  background: url("../img/penta_rise_bg.jpg");
   background-position: 50% 94px;
   width: 100%;
+  text-align: center;
   display: block;
   position: relative;
   overflow: visible;
@@ -272,17 +413,32 @@ font header .navbar-default .navbar-nav li a:hover {
   backface-visibility: hidden;
   padding: 100px 0;
 }
+
+#feature:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to top, rgb(101, 94, 122, 0.7), rgb(101, 94, 122, 0.7));
+}
+
+
 #feature h2 {
+  color: #fff;
   font-size: 28px;
   font-weight: 600;
   margin-bottom: 30px;
 }
 #feature p {
-  color: #555555;
+  color: #fff;
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
-  background: #655E7A;
+  background: #3e2966;
   color: #fff;
   padding: 10px 20px;
 }
@@ -406,13 +562,30 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider-work Start
 --*/
 #global-header {
-  background: url("../img/slider-bg.jpg") no-repeat;
-  background-size: cover;
-  padding-top: 150px;
-  padding-bottom: 107px;
+  background: url("../img/penta_rise_bg.jpg");
+  background-position: 50% 94px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  width: 100%;
+  text-align: center;
+  display: block;
   position: relative;
+  overflow: visible;
   background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #fff;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
 }
+
 #global-header:before {
   content: "";
   position: absolute;
@@ -422,9 +595,9 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #928dab, #1f1c2c 70%);
-  opacity: 0.8;
+  background: linear-gradient(to top, rgb(101, 94, 122, 0.7), rgb(101, 94, 122, 0.7));
 }
+
 #global-header .block {
   color: #E3E3E4;
   margin: 0 auto;
@@ -654,13 +827,215 @@ font header .navbar-default .navbar-nav li a:hover {
 -----------------------------------------------*/
 /*=============================================*/
 /*---------------------------------------------
+          Amabassador
+-----------------------------------------------*/
+/*--
+  portfolio-work Start
+--*/
+#ambassador {
+  overflow: hidden;
+  padding: 80px 0;
+}
+#ambassador .block .portfolio-menu {
+  padding-bottom: 30px;
+  text-align: center;
+}
+#ambassador .block .portfolio-menu ul {
+  border: 1px solid #999999;
+  display: inline-block;
+  margin-bottom: 40px;
+}
+#ambassador .block .portfolio-menu ul li {
+  display: inline-block;
+  padding: 0px 25px;
+  cursor: pointer;
+  font-size: 15px;
+  line-height: 40px;
+  font-weight: 600;
+  color: #333333;
+  text-transform: capitalize;
+  position: relative;
+}
+#ambassador .block .portfolio-menu ul .active {
+  color: #655E7A;
+  position: relative;
+}
+#ambassador .block .portfolio-menu ul .active:before {
+  content: "\f131";
+  position: absolute;
+  font-family: 'Ionicons';
+  bottom: -18px;
+  font-size: 30px;
+  width: 20px;
+  left: 0px;
+  right: 0px;
+  top: 23px;
+  margin: 0 auto;
+  color: #655e7a;
+  /*text-shadow: 0 1px 0px rgba(0, 0, 0, 0.9); */
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+#ambassador .block .portfolio-menu ul li:hover:before {
+  content: "\f131";
+  position: absolute;
+  font-family: 'Ionicons';
+  bottom: -18px;
+  font-size: 30px;
+  width: 20px;
+  left: 0px;
+  right: 0px;
+  top: 24px;
+  margin: 0 auto;
+  color: #655e7a;
+  /*text-shadow: 0 1px 0px rgba(0, 0, 0, 0.9);*/
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+#ambassador .block .portfolio-contant ul li {
+  float: left;
+  width: 32.22%;
+  overflow: hidden;
+  margin: 6px;
+  position: relative;
+}
+#ambassador .block .portfolio-contant ul li:hover .overly {
+  opacity: 1;
+}
+#ambassador .block .portfolio-contant ul li:hover .position-center {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translate(0%, -50%);
+  -moz-transform: translate(0%, -50%);
+  -ms-transform: translate(0%, -50%);
+  transform: translate(0%, -50%);
+}
+#ambassador .block .portfolio-contant ul li a {
+  display: block;
+  color: #fff;
+}
+#ambassador .block .portfolio-contant ul li a h2 {
+  font-size: 22px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+#ambassador .block .portfolio-contant ul li a p {
+  font-size: 15px;
+}
+#ambassador .block .portfolio-contant ul li a span {
+  font-style: italic;
+  font-size: 13px;
+  color: #655E7A;
+}
+#ambassador .block .portfolio-contant ul img {
+  width: 100%;
+  height: auto;
+}
+#ambassador .block .portfolio-contant .overly {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.9);
+  opacity: 0;
+  -webkit-transition: .3s all;
+  -o-transition: .3s all;
+  transition: .3s all;
+  text-align: center;
+}
+#ambassador .block .portfolio-contant .position-center {
+  position: absolute;
+  top: 50%;
+ /* left: 10%; */
+ padding: 0 10px;
+  -webkit-transform: translate(0%, 50%);
+  -moz-transform: translate(0%, 50%);
+  -ms-transform: translate(0%, 50%);
+  transform: translate(0%, 50%);
+  -webkit-transition: .5s all;
+  -o-transition: .5s all;
+  transition: .5s all;
+}
+#ambassador .block .mix {
+  display: none;
+}
+#ambassador-header {
+  background: url("../img/ambassador/ambassador_poster_v1.png");
+  background-position: 50% 0px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  width: 100%;
+  text-align: center;
+  display: block;
+  position: relative;
+  overflow: visible;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #fff;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+#ambassador-header:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to top, rgb(101, 94, 122, 0.7), rgb(101, 94, 122, 0.7));
+}
+
+#ambassador-header .block {
+  color: #E3E3E4;
+  margin: 0 auto;
+  padding: 10px 0 0 90px;
+ /* text-align: center; */
+}
+#ambassador-header .block h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 350;
+  font-size: 45px;
+  letter-spacing: 6px;
+  /*padding-bottom: 15px;*/
+  margin-top: 0;
+  line-height: 60px;
+  text-transform: capitalize;
+}
+#ambassador-header .block p {
+  font-size: 28px;
+  line-height: 40px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  letter-spacing: 3px;
+ /* word-spacing: 3px; */
+}
+/*=============================================*/
+/*---------------------------------------------
 					 Contact Start
 -----------------------------------------------*/
 /*--
 	slider-contact Start
 --*/
 #slider-contact {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  /*background: url("../img/slider-bg.jpg") no-repeat;*/
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
@@ -675,8 +1050,9 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #928dab, #1f1c2c 70%);
-  opacity: 0.8;
+  background: linear-gradient(to left, #655e7a, #3e2966); 
+  /*background: linear-gradient(to left, #928dab, #1f1c2c 70%);*/
+  /*opacity: 0.8;*/
 }
 #slider-contact .block {
   color: #E3E3E4;
@@ -827,7 +1203,9 @@ font header .navbar-default .navbar-nav li a:hover {
 	footer Start
 --*/
 footer {
-  background: #F5F5F5;
+  /*background: #3c2966;*/
+  background: #3e2966;
+  background-repeat: repeat-x;
   text-align: center;
   padding-top: 48px;
   padding-bottom: 55px;
@@ -835,7 +1213,7 @@ footer {
 footer p {
   font-size: 13px;
   line-height: 25px;
-  color: #919191;
+  color: #fff;
 }
 footer a {
   color: #595959;
@@ -853,7 +1231,7 @@ footer .footer-manu ul li {
 }
 footer .footer-manu ul li a {
   display: inline-block;
-  color: #494949;
+  color: #fff;
 }
 footer .footer-manu ul li a:hover {
   color: #000;

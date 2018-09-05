@@ -1,0 +1,18 @@
+enable: true
+title: "Laissez nous une note"
+content1: "Nous construisons une communauté inclusive."
+form:
+  name: "Votre nom"
+  email: "Votre email"
+  subject: "Votre objet"
+  message: "Votre message"
+  button: "Envoyer"
+
+box:
+  title: "Arrêtez-vous pour une visite"
+  address: "181 2nd Street, San Francisco, CA "
+  email: "Email: molly.ma@penta.global"
+  phone: "Téléphone: +88 01672 506 744"
+
+gmaps:
+  title:  "Nous comptons également sur Google Maps"

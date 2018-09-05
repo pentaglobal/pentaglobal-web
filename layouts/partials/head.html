@@ -19,6 +19,9 @@
 
 <!-- CSS -->
 {{ "<!--build:css /css/main.min.css -->" | safeHTML }}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/owl.carousel.css" />
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.min.css" />
 <!--link rel="stylesheet" href="{{ .Site.BaseURL }}css/font-awesome.min.css" /-->
@@ -30,6 +33,10 @@
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/animate.css" />
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/responsive.css" />
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/syntax.css" />
+
+
+
+
 {{ "<!-- endbuild -->" | safeHTML }}
 <!-- your app's js -->
 {{ "<!--build:js /js/main.min.js -->" | safeHTML }}
@@ -41,6 +48,11 @@
 <script src="{{ .Site.BaseURL }}js/min/waypoints.min.js"></script>
 <script src="{{ .Site.BaseURL }}js/jquery.counterup.js"></script>
 <script src="{{ .Site.BaseURL }}js/main.js"></script>
+
+
+
+
+
 {{ "<!-- endbuild -->" | safeHTML }}
 
 <!--

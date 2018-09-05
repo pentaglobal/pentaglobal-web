@@ -1,0 +1,16 @@
+{{ $data := index .Site.Data .Site.Language.Lang}}
+<section id="youtube">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-12 col-sm-12">
+			<div class="videoWrapper">
+
+			<!-- youtube video  -->
+			<iframe width="560" height="315" src="{{ $data.youtube.url }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+			</div>
+         </div>
+      </div>
+   </div>
+</section>
+
