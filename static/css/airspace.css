@@ -170,6 +170,11 @@ font header .navbar-default .navbar-nav li a:hover {
   font-weight: 300;
   letter-spacing: 3px;
 }
+
+#slider .slider-paragraph{
+  margin-top: 0;
+  text-align:justify;
+}
 /*--
 	wrapper Start
 --*/
@@ -244,8 +249,7 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #connect {
   text-align: center;
-  /*background: url("../img/penta_rise_bg.jpg");*/
-  background-color: #323342 ;
+  background-color: rgba(50, 51, 66, 1.0) ;
   padding: 80px 0;
   background-size: cover;
   background-attachment: fixed;
@@ -391,7 +395,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  background: url("../img/penta_rise_bg.jpg");
+  background: url("../img/penta_rice_bg.jpg");
   background-position: 50% 94px;
   width: 100%;
   text-align: center;
@@ -425,7 +429,6 @@ font header .navbar-default .navbar-nav li a:hover {
   height: 100%;
   background: linear-gradient(to top, rgb(101, 94, 122, 0.7), rgb(101, 94, 122, 0.7));
 }
-
 
 #feature h2 {
   color: #fff;
