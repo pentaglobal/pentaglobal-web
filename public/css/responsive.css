@@ -185,7 +185,10 @@ p {
     font-size: 21px;
   }
   h2 {
-    font-size: 18px;
+    font-size: 21px;
+  }
+  h3 {
+    font-size: 21px;
   }
   p {
     font-size: 14px;
@@ -301,7 +304,10 @@ p {
   /*--
 	features Start 
 --*/
-  #features .features-img {
+#feature p {
+  font-size: 16px;
+}
+  #feature .features-img {
     text-align: center;
   }
   /*---------------------------------------------
