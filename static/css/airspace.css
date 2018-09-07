@@ -391,7 +391,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3e2966', end
  /* background: #3e2966; */
  /*background: linear-gradient(to top, rgb(101, 94, 122, 1), rgb(62, 41, 102,1)); */
  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#3e2966+0,655e7a+100 */
-background: rgb(62,41,102); /* Old browsers */
+background-color: rgba(62,41,102,1); /* Old browsers */
 
 }
 #call-to-action h2 {
@@ -449,7 +449,7 @@ background: rgb(62,41,102); /* Old browsers */
   width: 100%;
   height: 100%;
  /* background: linear-gradient(to top, rgb(101, 94, 122, 0.7), rgb(101, 94, 122, 0.7)); */
- background: rgb(60, 60, 60, 0.6);
+ background-color: rgba(60, 60, 60, 0.6);
 /* background-image: linear-gradient(to top, rgb(60, 60, 60, 0.6), rgb(60, 60, 60, 0.6)); */j
 
 
@@ -473,7 +473,7 @@ background: rgb(62,41,102); /* Old browsers */
   /*background: #3e2966; */
  /* background: rgb(101, 94, 122, 1); */
  /* background: rgb(62, 41, 102,0.7); */
- background: rgba(51, 51, 51, 0.7);
+ background: rgba(51, 51, 51, 0.75);
   color: #fff;
   padding: 10px 25px;
   font-weight: 600;
@@ -632,7 +632,7 @@ background: rgb(62,41,102); /* Old browsers */
   right: 0;
   width: 100%;
   height: 100%;
-  background: rgb(101, 94, 122, 0.7);
+  background-color: rgba(101, 94, 122, 0.7);
 /* background-image: linear-gradient(to top, rgb(101, 94, 122, 0.7), rgb(101, 94, 122, 0.7)); */
 
 }
@@ -1039,7 +1039,7 @@ background: rgb(62,41,102); /* Old browsers */
   right: 0;
   width: 100%;
   height: 100%;
-  background: rgb(101, 94, 122, 0.7);
+  background-color: rgba(101, 94, 122, 0.7);
 
 }
 
