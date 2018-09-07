@@ -2,28 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>en-us/sitemap.xml</loc>
+	   	<loc>/en-us/sitemap.xml</loc>
 		
 	   	<lastmod>2018-08-27T13:47:08+02:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>zh-cn/sitemap.xml</loc>
-		
-	   	<lastmod>2018-08-27T13:47:08+02:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>ko/sitemap.xml</loc>
-		
-	   	<lastmod>2018-08-27T13:47:08+02:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>fr/sitemap.xml</loc>
+	   	<loc>/fr/sitemap.xml</loc>
 		
 	   	<lastmod>2018-08-27T13:47:08+02:00</lastmod>
 		

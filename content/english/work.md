@@ -1,4 +1,4 @@
 +++
-title = "PROJECT"
+title = "Projects"
 id = "work"
 +++

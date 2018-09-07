@@ -1,4 +1,4 @@
 +++
-title = "AMBASSADOR"
+title = "Ambassador"
 id = "ambassador"
 +++

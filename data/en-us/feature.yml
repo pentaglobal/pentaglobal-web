@@ -1,8 +1,8 @@
 enable: true
-title: "We believe in great ideas"
+title: "We Believe in Great Ideas"
 content1: "The Penta Network is designed to connect to a wide range of blockchain networks, existing digital networks and off-chain systems. Penta is first in providing a comprehensive solution to the blockchain interoperability problem."
 content2: "At its core is a robust public blockchain infrastructure that supports a high-performance application platform. In the same way you download apps onto your smart device from an App Store, you will be able to access decentralized applications (DApps) to run on the Penta blockchain. Launching a Penta DApp will enable everyone to navigate digital networks as productive tools for the digital economy."
 content3: "The mission of Penta is to become the “Universal Blockchain Connector” through unique, innovative technology and a commitment to building an inclusive and decentralized community connecting the world to blockchain technology."
 button:
-  caption: "View our projects"
+  caption: "Our Projects"
   url: "/work"
