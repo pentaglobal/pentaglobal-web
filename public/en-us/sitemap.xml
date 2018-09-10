@@ -366,22 +366,6 @@
   </url>
   
   <url>
-    <loc>/categories/buyback/</loc>
-    <lastmod>2018-07-22T13:50:46+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/buyback/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/categories/buyback/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/buyback/</loc>
     <lastmod>2018-07-13T21:49:20+02:00</lastmod>
     <priority>0</priority>
@@ -394,6 +378,22 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="/tags/buyback/"
+                />
+  </url>
+  
+  <url>
+    <loc>/categories/buyback/</loc>
+    <lastmod>2018-07-22T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/buyback/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="/categories/buyback/"
                 />
   </url>
   
