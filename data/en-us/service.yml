@@ -1,7 +1,7 @@
 enable: true
 title: About Penta
 subtitle: >
-  Realizing the Universal Blockchain Connector for the Smart Economy
+  Realizing the Universal Blockchain Connector for the Smart Economy: Identity, Credibility, Transferability, Economy - these five dimensions connect the digital and real worlds.
 content:
   
   - icon: penta-icon1
@@ -11,7 +11,7 @@ content:
   - icon: penta-icon2
     name: Realizing the Promise of Blockchain
     text: >
-      Building on the success of its permission blockchain projects, the Penta development team now brings @scale public blockchain technologies too. 
+      The Penta development team has successfully deployed permission blockchain in many industries. New we present Penta, a scalable public blockchain open to everyone.
 
   - icon: penta-icon3
     name: Five Dimensions of Connectivity
