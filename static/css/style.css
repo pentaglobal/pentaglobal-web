@@ -99,10 +99,12 @@ particles-js-canvas-el {
 .fa-github {
   color: white;
 }
-.fa-telegram {
+.fa-envelope {
   color: white;
 }
-
+.fa-envelope-o {
+  color: white;
+}
 
 .videoWrapper {
     position: relative;
