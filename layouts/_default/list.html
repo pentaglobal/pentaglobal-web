@@ -4,11 +4,13 @@
 	{{ partial "head.html" . }}
 </head>
 <body>
-
-	{{ partial "header.html" . }}
+<!--
 
 	{{ partial "global-header.html" .Site.Params.blog }}
-
+-->
+	{{ partial "header.html" . }}
+	{{ $data := index .Site.Data .Site.Language.Lang}} 
+	{{ partial "global-header.html" $data.blog }}
 	<main>
 		{{ range .Data.Pages }}
 		<div class="post-area">

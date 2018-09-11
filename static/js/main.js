@@ -35,7 +35,8 @@ $(document).ready(function(){
         time: 1000
     });
 
-
+/* 
+	//sxm not used anymore, replaced with particles-js
 	function dustySphere() {
 		var introLeft = document.getElementById("intro-left");
 		var introRight = document.getElementById("intro-right");
@@ -90,10 +91,10 @@ $(document).ready(function(){
 			numToAddEachFrame = 8;
 			
 			//particle color
-			/*r = 70;
-			g = 255;
-			b = 140;
-			*/
+			//r = 70;
+			//g = 255;
+			//b = 140;
+			
 			//rgb(112, 77, 191)
 			r = 112;
 			g = 77;
@@ -201,12 +202,12 @@ $(document).ready(function(){
 					p.z += p.velZ;
 				}
 				
-				/*
-				We are doing two things here to calculate display coordinates.
-				The whole display is being rotated around a vertical axis, so we first calculate rotated coordinates for
-				x and z (but the y coordinate will not change).
-				Then, we take the new coordinates (rotX, y, rotZ), and project these onto the 2D view plane.
-				*/
+				
+				// We are doing two things here to calculate display coordinates.
+				// The whole display is being rotated around a vertical axis, so we first calculate rotated coordinates for
+				// x and z (but the y coordinate will not change).
+				// Then, we take the new coordinates (rotX, y, rotZ), and project these onto the 2D view plane.
+				
 				rotX = cosAngle*p.x + sinAngle*(p.z - sphereCenterZ);
 				rotZ = -sinAngle*p.x + cosAngle*(p.z - sphereCenterZ) + sphereCenterZ;
 				m = fLen/(fLen - rotZ);
@@ -349,7 +350,7 @@ $(document).ready(function(){
 		init();
 	}; //eo dustySphere
 	
-	dustycanvas ? dustySphere() : noop();
+	dustycanvas ? dustySphere() : noop(); */
 }); //eo document.ready
 
 

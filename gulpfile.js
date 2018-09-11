@@ -211,14 +211,15 @@ gulp.task('htmlIndexes', function() {
 		// that case, an object containing src, name and
 		// dest.
 		// So here we create a Gulp stream as we would
-		// do if we just handle one set of files
+        // do if we just handle one set of files
+        console.log('minimizing html in:',JSON.stringify(entry));
 		return gulp.src(entry.src)
             .pipe(htmlmin({
                 collapseWhitespace: true
             }))
 			.pipe(gulp.dest(entry.dest))
     });
-    console.log('minimizing html in:',indexesConfig.toString());
+    
 
 	// tasks now includes an array of Gulp streams. Use
 	// the `merge-stream` module to combine them into one
