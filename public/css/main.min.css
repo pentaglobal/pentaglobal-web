@@ -1609,7 +1609,9 @@ particles-js-canvas-el {
 .fa-envelope-o {
   color: white;
 }
-
+.fa-paper-plane {
+  color: white;
+}
 .videoWrapper {
     position: relative;
     padding-bottom: 56.25%; /* 16:9 */
