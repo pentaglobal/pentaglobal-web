@@ -619,7 +619,7 @@ background-color: rgba(62,41,102,1); /* Old browsers */
 	Feature Start
 --*/
 #feature {
-  background: url("../img/penta_rice_bg.jpg");
+  background-image: url("../img/penta_rice_bg.jpg");
   background-position: 50% 94px;
   width: 100%;
   text-align: center;
@@ -7926,6 +7926,10 @@ px      68    160    252    344    436    528    620    712    */
   /*--
 	features Start 
 --*/
+  #feature {
+    background-image: url("../img/penta_rice_bg_sm.jpg");
+  }
+
   #features {
     text-align: center;
   }
@@ -8196,6 +8200,9 @@ p {
   /*--
 	features Start 
 --*/
+#feature {
+  background-image: url("../img/penta_rice_bg_sm.jpg");
+}
 #feature p {
   font-size: 16px;
 }
