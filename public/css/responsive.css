@@ -41,6 +41,7 @@ px      68    160    252    344    436    528    620    712    */
   #features {
     text-align: center;
   }
+  
   /*--
 	footer Start 
 --*/
@@ -262,6 +263,9 @@ p {
 --*/
   #service {
     padding-top: 100px;
+  }
+  #service .card {
+    min-height: 1px;
   }
   #service .thumbnail {
     padding-bottom: 70px;

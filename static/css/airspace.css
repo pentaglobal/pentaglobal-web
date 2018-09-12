@@ -346,6 +346,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3e2966', end
   text-align: center;
   padding: 90px 0;
 }
+#service .card {
+  min-height: 300px;
+}
 #service .service-item {
   padding-bottom: 30px;
 }
